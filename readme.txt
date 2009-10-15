@@ -31,7 +31,7 @@ none
 
 == Screenshots ==
 
-screenshot1.jpg A displayed post on the main page, after being redacted.
+1. A displayed post on the main page, after being redacted.
 
 == Changelog ==
 
