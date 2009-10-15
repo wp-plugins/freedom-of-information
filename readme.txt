@@ -35,5 +35,11 @@ screenshot1.jpg A displayed post on the main page, after being redacted.
 
 == Changelog ==
 
+= 0.2 =
+* Added options page
+* Allow admin to choose a custom RegEx pattern for matching terms to redact
+* Allow admin to choose a custom HTML tag and/or CSS result for redacting
+* Can be applied to all posts or select posts by use of custom field
+
 = 0.1 =
 * Initial version.
