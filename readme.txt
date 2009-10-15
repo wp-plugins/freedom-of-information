@@ -6,7 +6,7 @@ Requires at least: 2.1
 Tested up to: 2.8.4
 Stable tag: 0.1
 
-A fun plugin that filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn’t want getting out.
+A fun plugin that filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn't want getting out.
 
 == Description ==
 
@@ -20,7 +20,7 @@ Freedom of Information, my second WordPress plugin, is just for fun. It filters 
 
 == Installation ==
 
-1. Download the External Image Loader zip file.
+1. Download the Freedom of Information zip file.
 2. Extract the files to your WordPress plugins directory.
 3. Activate the plugin via the WordPress Plugins tab.
 
