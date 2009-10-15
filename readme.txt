@@ -16,7 +16,7 @@ Freedom of Information, my second WordPress plugin, is just for fun. It filters 
 * none
 
 = Planned features: =
-* options pate
+* options page
 
 == Installation ==
 
