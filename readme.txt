@@ -30,7 +30,7 @@ none
 
 == Screenshots ==
 
-none
+screenshot1.jpg A displayed post on the main page, after being redacted.
 
 == Changelog ==
 
