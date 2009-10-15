@@ -10,7 +10,7 @@ A fun plugin that filters the content of your post and redacts terminology that 
 
 == Description ==
 
-Freedom of Information, my second WordPress plugin, is just for fun. It filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn’t want getting out.  Everything is a conspiracy.  Great for the black helicopter crowd!
+Freedom of Information, my second WordPress plugin, is just for fun. It filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn't want getting out.  Everything is a conspiracy.  Great for the black helicopter crowd!
 
 = Features =
 * Options page
