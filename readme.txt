@@ -1,0 +1,38 @@
+=== Freedom of Information ===
+Contributors: bbqiguana 
+Donate link: http://www.bbqiguana.com/donate/
+Tags: fun
+Requires at least: 2.1
+Tested up to: 2.8.4
+Stable tag: 0.1
+
+A fun plugin that filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn’t want getting out.
+
+== Description ==
+
+Freedom of Information, my second WordPress plugin, is just for fun. It filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn’t want getting out.
+
+= Features =
+* none
+
+= Planned features: =
+* options pate
+
+== Installation ==
+
+1. Download the External Image Loader zip file.
+2. Extract the files to your WordPress plugins directory.
+3. Activate the plugin via the WordPress Plugins tab.
+
+== Frequently Asked Questions ==
+
+none
+
+== Screenshots ==
+
+none
+
+== Changelog ==
+
+= 0.1 =
+* Initial version.
