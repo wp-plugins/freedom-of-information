@@ -3,7 +3,7 @@ Contributors: bbqiguana
 Donate link: http://www.bbqiguana.com/donate/
 Tags: fun, content, post, redact, black
 Requires at least: 2.1
-Tested up to: 2.8.4
+Tested up to: 2.8.5
 Stable tag: 0.2
 
 A fun plugin that filters the content of your post and redacts terminology that certain "nefarious conspirators" wouldn't want getting out.
